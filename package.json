@@ -1,6 +1,6 @@
 {
 	"name": "nlangle-deezer-widget-block",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A WordPress block for embedding Deezer music content. This plugin is not affiliated with, authorized, maintained, sponsored, or endorsed by Deezer or any of its affiliates or subsidiaries.",
 	"author": "Nicolas Langle",
 	"repository": "https://github.com/n-langle/nlangle-deezer-widget-block",
