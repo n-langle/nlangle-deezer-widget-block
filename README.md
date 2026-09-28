@@ -26,9 +26,7 @@ This block makes it easy to share music from Deezer's extensive catalog directly
 
 ## Frequently Asked Questions
 
-### Does it work ?
-
-Yes.
+No frequently asked questions.
 
 ## Screenshots
 
@@ -36,6 +34,9 @@ Yes.
 ![screenshot-1](https://github.com/n-langle/nlangle-deezer-widget-block/blob/develop/.wordpress-org/screenshot-1.gif)
 
 ## Changelog
+
+### 0.1.1
+* Minor style adjustment in editor contexte
 
 ### 0.1.0
 * Release
