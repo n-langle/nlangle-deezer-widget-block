@@ -2,7 +2,7 @@
 	"$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
 	"name": "nlangle/deezer-widget",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"title": "Deezer",
 	"category": "widgets",
 	"description": "A WordPress block for embedding Deezer music content. This plugin is not affiliated with, authorized, maintained, sponsored, or endorsed by Deezer or any of its affiliates or subsidiaries.",

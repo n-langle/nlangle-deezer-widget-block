@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       NLangle Deezer Widget Block
  * Description:       A WordPress block for embedding Deezer music content. This plugin is not affiliated with, authorized, maintained, sponsored, or endorsed by Deezer or any of its affiliates or subsidiaries.
- * Version:           0.1.1
+ * Version:           0.1.2
  * Requires at least: 6.4
  * Requires PHP:      7.4
  * Author:            nlangle
