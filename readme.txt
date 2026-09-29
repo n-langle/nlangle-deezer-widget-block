@@ -3,7 +3,7 @@ Contributors:      nlangle
 Repository:        https://github.com/n-langle/nlangle-deezer-widget-block
 Tags:              block, deezer, widget, audio
 Tested up to:      7.1.2
-Stable tag:        0.1.0
+Stable tag:        0.1.1
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
