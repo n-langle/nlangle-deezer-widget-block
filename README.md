@@ -35,6 +35,9 @@ No frequently asked questions.
 
 ## Changelog
 
+### 0.1.2
+* Fix stable version
+
 ### 0.1.1
 * Minor style adjustment in editor contexte
 
