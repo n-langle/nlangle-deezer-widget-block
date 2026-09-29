@@ -1,0 +1,43 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "nlangle/deezer-widget",
+  "version": "0.1.2",
+  "title": "Deezer",
+  "category": "widgets",
+  "description": "A WordPress block for embedding Deezer music content. This plugin is not affiliated with, authorized, maintained, sponsored, or endorsed by Deezer or any of its affiliates or subsidiaries.",
+  "example": {},
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "spacing": {
+      "padding": true,
+      "margin": true
+    }
+  },
+  "attributes": {
+    "deezerUrl": {
+      "type": "string",
+      "default": ""
+    },
+    "theme": {
+      "type": "string",
+      "default": "auto"
+    },
+    "height": {
+      "type": "string",
+      "default": ""
+    },
+    "showTracklist": {
+      "type": "string",
+      "default": "yes"
+    }
+  },
+  "textdomain": "nlangle-deezer-widget-block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
